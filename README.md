@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Rafael Mathias, right now I'm current working as a Software Development Engineer in the mediation / telecom business
+Hi, my name is Rafael Mathias, I live in Brazil, to be more specific in Londrina/PR and I work as a Software Development Engineer in the mediation / telecom business.
 
-- 👀 I’m interested in Software Development, Data Analysis, DevOps and Cloud Computing.
+I can read and write english in a proficient level and my speech is in a intermediary level, I also speak , read an write spanish in a advance level.
 
-- 🌱 I’m currently working with C/C++ and Python, but I'm also have knowledge in shell, Java and SQL, I'm also learning more about Cloud Computing and looking fowarding to get my certifications in the area.
+In programming languages I currently work with C/C++, python and Shell. I also have knowledge in Java, JavaScript and SQL, but have never work with them in a professional level.
 
-- 📫 You can reach me via email rafael.mathias09@outlook.com or via LinkedIn https://www.linkedin.com/in/rafael-mathias-6aba221b0 
+As right now I'm studying to get my certifications in Cloud Computing (AWS / Azure) and in .NET and after that i want to expand my knowledge and experience in DevOps.
+
+Here in my profile you can check some mock projects that I've developed as a exercise and study.
+
+You can reach me via email rafael.mathias09@outlook.com or via LinkedIn https://www.linkedin.com/in/rafael-mathias-6aba221b0 
+
 
 
 <!---
